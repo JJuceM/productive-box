@@ -4,7 +4,7 @@
   </a>
   <h3 align="center">📌✨productive-box</h3>
 </p>
-
+ 
 <p align="center">
    <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
    <img src="https://img.shields.io/github/license/maxam2017/productive-box"/>
@@ -46,4 +46,4 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Go to the repo **Settings > Secrets**
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
-1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
+1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile )
